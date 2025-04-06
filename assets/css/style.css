@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: techwix - Technology IT Solutions Consultancy HTML5 Template
+    Template Name: SpineRoots Technologies
     Template URI: https://thepixelcurve.com/
     Description: A Library of Responsive Bootstrap5, HTML5, and CSS3 Website Templates
     Author: Pixelcurve
@@ -194,7 +194,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*--Section Spacing--*/
 .section-padding {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 50px;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -219,7 +219,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .section-padding-02 {
-  padding-top: 120px;
+  padding-top: 20px;
 }
 
 @media only screen and (max-width: 1199px) {
@@ -4013,7 +4013,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  margin-bottom: -150px;
+  margin-bottom: 20px;
   position: relative;
   z-index: 5;
 }
@@ -6303,6 +6303,7 @@ textarea:-ms-input-placeholder {
 .contact-info-section .contact-info-wrap .single-contact-info {
   background: #f8f8f8;
   padding: 50px 80px 75px;
+  height: 300px;
   border-radius: 5px;
   margin-top: 30px;
 }
@@ -6548,7 +6549,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding-top: 210px;
+  padding-top: 50px;
 }
 
 .techwix-choose-us-section .section-title {
@@ -6893,7 +6894,7 @@ textarea:-ms-input-placeholder {
 
 .techwix-choose-us-section-04 {
   background: #ffffff;
-  padding-top: 120px;
+  padding-top: 30px;
 }
 
 .techwix-choose-us-section-04 .choose-us-wrap {
@@ -6907,6 +6908,7 @@ textarea:-ms-input-placeholder {
 .techwix-choose-us-section-04 .choose-us-item-02 {
   border: 1px solid #e1e1e1;
   box-shadow: none;
+  height: 320px;
 }
 
 /*--
@@ -8908,19 +8910,19 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.footer-social .social {
+.footer-social d-none .social {
   margin-top: 25px;
 }
 
-.footer-social .social li {
+.footer-social d-none .social li {
   display: inline-block;
 }
 
-.footer-social .social li + li {
+.footer-social d-none .social li + li {
   margin-left: 5px;
 }
 
-.footer-social .social li a {
+.footer-social d-none .social li a {
   width: 35px;
   height: 35px;
   line-height: 37px;
@@ -8931,7 +8933,7 @@ textarea:-ms-input-placeholder {
   color: #086ad8;
 }
 
-.footer-social .social li a:hover {
+.footer-social d-none .social li a:hover {
   color: #086ad8;
 }
 
@@ -8961,11 +8963,11 @@ textarea:-ms-input-placeholder {
   padding-left: 10px;
 }
 
-.footer-section-02 .footer-social .social li a {
+.footer-section-02 .footer-social d-none .social li a {
   color: #ff5538;
 }
 
-.footer-section-02 .footer-social .social li a:hover {
+.footer-section-02 .footer-social d-none .social li a:hover {
   color: #ff5538;
 }
 
@@ -9009,11 +9011,11 @@ textarea:-ms-input-placeholder {
   color: #0e0e0e;
 }
 
-.footer-section-05 .footer-social .social li a {
+.footer-section-05 .footer-social d-none .social li a {
   color: #11ddf5;
 }
 
-.footer-section-05 .footer-social .social li a:hover {
+.footer-section-05 .footer-social d-none .social li a:hover {
   color: #11ddf5;
 }
 
@@ -9077,7 +9079,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-section-03 .footer-widget-wrap {
-  padding-top: 140px;
+  padding-top: 90px;
 }
 
 .footer-section-04 .footer-copyright-area {

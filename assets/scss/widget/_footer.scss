@@ -63,7 +63,7 @@
 }
  
 // Widget Social
-.footer-social {
+.footer-social d-none {
 
     & .social {
         margin-top: 25px;
@@ -134,7 +134,7 @@
 
 .footer-section-02 {
     
-    & .footer-social {
+    & .footer-social d-none {
 
         & .social {
 
@@ -247,7 +247,7 @@
 
 .footer-section-05 {
     
-    & .footer-social {
+    & .footer-social d-none {
 
         & .social {
 
